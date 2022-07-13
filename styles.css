@@ -1,0 +1,66 @@
+* {
+    font-family: 'Edu SA Beginner', cursive;
+font-family: 'Open Sans', sans-serif;
+   background-color: #f2ebe3;
+}
+
+h1 {
+    margin: 20px;
+}
+
+h4 {
+  color: gray;
+  margin-left: 10px;
+}
+
+img {
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 50px;
+}
+
+main {
+   padding-top: 0px;
+}
+
+
+li {
+    list-style: none;
+}
+
+section,
+header {
+    padding: 10px 60px 20px 60px;
+}
+
+header {
+    display: flex;
+}
+
+.LinksAndOthers {
+    padding: 10px 60px 20px 60px;
+    margin-left:  400px;
+    
+}
+
+.inforamtions {
+    margin-top: 10px;
+}
+
+.links {
+    position: relative;
+    
+}
+
+.link {
+    position: static;
+    margin-bottom: 50px;
+    bottom: 400px;
+    margin-left: 400px;
+}
+
+.AboutMe {
+    position: absolute;
+    top: 250px;
+}
+
